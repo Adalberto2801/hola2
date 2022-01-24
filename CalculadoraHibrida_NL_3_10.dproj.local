@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/22 09:26:42.000.531,=C:\Users\susy_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/23 09:25:34.000.887,=C:\Users\susy_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/23 09:41:39.000.271,C:\Users\susy_\OneDrive\Escritorio\INTERFAZ\UNIDAD 4\Aplicación 2_NL_13\ProyectoCalculadoraHibrida_NL13.dfm=C:\Users\susy_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/23 09:41:39.000.271,C:\Users\susy_\OneDrive\Escritorio\INTERFAZ\UNIDAD 4\Aplicación 2_NL_13\ProyectoCalculadoraHibrida_NL13.pas=C:\Users\susy_\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/23 09:42:09.000.771,C:\Users\susy_\OneDrive\Escritorio\INTERFAZ\UNIDAD 4\Aplicación 2_NL_13\CalculadoraHibrida_NL13.dproj=C:\Users\susy_\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/07 03:40:15.000.683,C:\Users\jesus\OneDrive\Documentos\CalculadoraHibrida_NL_3_10\CalculadoraHibrida_NL_3_10.dproj=C:\Users\jesus\OneDrive\Imágenes\Aplicación 2_NL_13\CalculadoraHibrida_NL13.dproj</Transaction>
+    <Transaction>2021/12/07 04:04:51.000.606,C:\Users\jesus\OneDrive\Imágenes\Aplicación 2_NL_13\ProyectoCalculadoraHibrida_NL13.pas=D:\Documentos\Lenguajes de Interfaz\CALCULADORA_HIBRIDA_NL_10_3\ProyectoCalculadoraHibrida_NL10_3.pas</Transaction>
+    <Transaction>2021/12/07 04:04:51.000.606,C:\Users\jesus\OneDrive\Imágenes\Aplicación 2_NL_13\ProyectoCalculadoraHibrida_NL13.dfm=D:\Documentos\Lenguajes de Interfaz\CALCULADORA_HIBRIDA_NL_10_3\ProyectoCalculadoraHibrida_NL10_3.dfm</Transaction>
+    <Transaction>2021/12/07 04:05:21.000.381,C:\Users\jesus\OneDrive\Documentos\CalculadoraHibrida_NL_3_10\CalculadoraHibrida_NL_3_10.dproj=D:\Documentos\Lenguajes de Interfaz\CALCULADORA_HIBRIDA_NL_10_3\CalculadoraHibrida_NL_3_10.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
